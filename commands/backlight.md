@@ -2,7 +2,7 @@
 description: Scan a document or pasted text for hidden instructions aimed at an AI model, and report the result even if it is clean.
 ---
 
-Run the `blacklight` skill's inspection on the target below (or, if none is
+Run the `backlight` skill's inspection on the target below (or, if none is
 given, on the most recent document or pasted text in the conversation).
 
 Follow the skill's "How to inspect" and "What to look for" sections. Unlike
